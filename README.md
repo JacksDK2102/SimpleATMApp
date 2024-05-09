@@ -2,10 +2,10 @@ Simple ATM Application developed using C++.
 Using simple while loop functions.
 Functions:
 1. Check Balance
-It shows the balance of the account.
+- It shows the balance of the account.
 2. Deposit
-It increment the total amount of the balance.
+- It increment the total amount of the balance.
 4. Withdraw
-It decrease the total amount of the balance.
+- It decrease the total amount of the balance.
 6. Exit
-To exit the application.
+- To exit the application.
